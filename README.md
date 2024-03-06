@@ -1,1 +1,2 @@
 # car_price_prediction_linear_model
+Implemented multiple regression analysis using the sklearn libraries, incorporating rigorous data cleaning, validation of Ordinary Least Squares (OLS) assumptions, and advanced preprocessing techniques. Leveraged six independent variables to predict outcomes, achieving a commendable model accuracy of 83%. Actively engaged in refining methodologies to further boost prediction accuracy, with a focus on contributing to data-driven decision-making.
